@@ -250,7 +250,7 @@ h2:hover{
     width: 160px;
 }
 .container{
-    height: 600px;
+    height: 650px;
     width: 100%;
     background-color: rgb(0,0,70);
     color: white;
@@ -544,4 +544,56 @@ h3{
  font-family: Arial, Helvetica, sans-serif;
  padding-top: 20px;
  padding-left: 25px;
+}
+.lastman{
+    background-image: url("Lastman.jpeg");
+    background-size: cover;
+    margin: 300px 100px 100px 100px;
+    height: 400px;
+    width: auto;
+    
+}
+.enddetails{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.enddetails{
+    display: flex;
+   justify-content: space-evenly;
+
+}
+
+.details p:hover{
+   color: rgb(49, 202, 49);
+   cursor: pointer;
+}
+.end{
+    background-color:  #efeff0;
+    height: 60px;
+    width: 100%;
+}
+.endpic img{
+    height: 27px;
+    width: 90px;
+    margin-left: 100px;
+    margin-right: 20px;
+     padding: 15px 0px 15px 0px;
+}
+.endtext p{
+    font-size: 20px;
+    color: #62646A;
+ padding: 15px 0px 15px 0px;
+}
+.endp1{
+    display: flex;
+
+}
+.lastlogo{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 750px;
+    gap: 30px;
+     padding: 20px 0px 20px 0px
 }
